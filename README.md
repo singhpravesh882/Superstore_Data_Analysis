@@ -3,7 +3,12 @@
 This Power BI dashboard provides comprehensive insights into sales performance using the **Superstore** dataset. The dashboard covers sales trends, customer behavior, product performance, and regional insights.
 
 ---
+## Files
+-**Jupyter Notebook** - Used to import Superstore data set in SSMS
+-**SQL Query file - Superstore_data_analysis** - Includes all the queries from basic to advanced with clear explanations
+-**Power BI file** - Includes the dashboard
 
+---
 ## Key Features
 
 - **Monthly Sales Trends** – Track sales and profit over time.
