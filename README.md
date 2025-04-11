@@ -16,7 +16,7 @@ This Power BI dashboard provides comprehensive insights into sales performance u
 
 ## Dataset
 
-- **Source**: [Superstore Dataset from Kaggle](https://www.kaggle.com/datasets/thiagobodruk/superstore-dataset)
+- **Source**: [Superstore Dataset from Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 - **Tables Created**:
   - Orders
   - Order Details
