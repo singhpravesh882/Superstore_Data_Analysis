@@ -4,9 +4,9 @@ This Power BI dashboard provides comprehensive insights into sales performance u
 
 ---
 ## Files
--**Jupyter Notebook** - Used to import Superstore data set in SSMS
--**SQL Query file - Superstore_data_analysis** - Includes all the queries from basic to advanced with clear explanations
--**Power BI file** - Includes the dashboard
+- **Jupyter Notebook** - Used to import Superstore data set in SSMS.
+- **SQL Query file - Superstore_data_analysis** - Includes all the queries from basic to advanced with clear explanations.
+- **Power BI file** - Includes the dashboard.
 
 ---
 ## Key Features
