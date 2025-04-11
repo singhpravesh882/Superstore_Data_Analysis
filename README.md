@@ -1,20 +1,20 @@
-# 🛍️ Superstore Sales Analysis - Power BI Dashboard
+# Superstore Sales Analysis - Power BI Dashboard
 
 This Power BI dashboard provides comprehensive insights into sales performance using the **Superstore** dataset. The dashboard covers sales trends, customer behavior, product performance, and regional insights.
 
 ---
 
-## 📊 Key Features
+## Key Features
 
-- 📆 **Monthly Sales Trends** – Track sales and profit over time.
-- 🧾 **Top Products & Categories** – View highest-grossing and most profitable products.
-- 🏷️ **Discount Analysis** – Understand discount patterns and their impact on profit.
-- 🌍 **Regional Performance** – Analyze sales and profit by region and state.
-- 👥 **Customer Insights** – See customer segments and order trends.
+- **Monthly Sales Trends** – Track sales and profit over time.
+- **Top Products & Categories** – View highest-grossing and most profitable products.
+- **Discount Analysis** – Understand discount patterns and their impact on profit.
+- **Regional Performance** – Analyze sales and profit by region and state.
+- **Customer Insights** – See customer segments and order trends.
 
 ---
 
-## 🗂️ Dataset
+## Dataset
 
 - **Source**: [Superstore Dataset from Kaggle](https://www.kaggle.com/datasets/thiagobodruk/superstore-dataset)
 - **Tables Created**:
@@ -28,7 +28,7 @@ The data was cleaned, split into normalized tables, and loaded into SQL Server b
 
 ---
 
-## 🧠 Insights Gained
+## Insights Gained
 
 - Furniture category underperforms despite high sales volume.
 - High discounts in Technology impact profitability.
@@ -36,7 +36,7 @@ The data was cleaned, split into normalized tables, and loaded into SQL Server b
 
 ---
 
-## 🔧 Tools Used
+## Tools Used
 
 - **Power BI Desktop** – Data visualization
 - **SQL Server Management Studio (SSMS)** – Data modeling & querying
@@ -44,7 +44,7 @@ The data was cleaned, split into normalized tables, and loaded into SQL Server b
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To view or explore the dashboard:
 
@@ -54,15 +54,15 @@ To view or explore the dashboard:
 
 ---
 
-## ✍️ Author
+## Author
 
 **Pravesh Vinodkumar Singh**  
-📧 singhpravesh882@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/pravesh-singh-b4193b23/)
+singhpravesh882@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/pravesh-singh-b4193b23/)
 
 ---
 
-## 🪪 License
+## License
 
 This project is licensed under the [MIT License](LICENSE) – feel free to use and adapt!
 
